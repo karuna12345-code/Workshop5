@@ -1,0 +1,5 @@
+C:\Users\karuna\OneDrive\Desktop\workshop5\Solution4\task2\obj\Debug\net9.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karuna\OneDrive\Desktop\workshop5\Solution4\task2\obj\Debug\net9.0\task2.AssemblyInfoInputs.cache
+C:\Users\karuna\OneDrive\Desktop\workshop5\Solution4\task2\obj\Debug\net9.0\task2.AssemblyInfo.cs
+C:\Users\karuna\OneDrive\Desktop\workshop5\Solution4\task2\obj\Debug\net9.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\karuna\OneDrive\Desktop\workshop5\Solution4\task2\obj\Debug\net9.0\task2.sourcelink.json
